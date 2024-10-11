@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+
+<body>
+    <header>
+        <h1>Welcome to the Tags</h1>
+    </header>
+
+    <main>
+        <section>
+            <h2>I introduction myself</h2>
+            <p>My favorite drink is coffee</p>
+            <p><strong>I am a student.</strong></p>
+        </section>
+    </main>
+
+    <footer>
+        <p>Muahh 💕</p>
+    </footer>
+</body>
+
+</html>
